@@ -101,6 +101,7 @@ video {
 
 .home .informacoes a {
 	color: #ffffff;
+	border-botton: 1px solid;
 }
 
 .home .informacoes a:hover {
