@@ -104,8 +104,7 @@ video {
 }
 
 .opcoes {
-	color: #ffffff;
-	border-botton: 1px solid;
+	border-botton: 1px solid #ffffff;
 }
 
 .home .informacoes a:hover {
